@@ -1,0 +1,3674 @@
+Papan Awal:
+AAAB.C
+DEEBFC
+D.PPFCK
+GGH.F.
+.IH.JJ
+.IMMLL
+
+Gerakan 1: J-left
+AAAB.C
+DEEBFC
+D.PPFCK
+GGH.F.
+.IHJJ.
+.IMMLL
+
+Gerakan 2: C-down
+AAAB..
+DEEBFC
+D.PPFCK
+GGH.FC
+.IHJJ.
+.IMMLL
+
+Gerakan 3: C-down
+AAAB..
+DEEBF.
+D.PPFCK
+GGH.FC
+.IHJJC
+.IMMLL
+
+Gerakan 4: F-up
+AAABF.
+DEEBF.
+D.PPFCK
+GGH..C
+.IHJJC
+.IMMLL
+
+Gerakan 5: P-left
+AAABF.
+DEEBF.
+DPP.FCK
+GGH..C
+.IHJJC
+.IMMLL
+
+Gerakan 6: B-down
+AAA.F.
+DEEBF.
+DPPBFCK
+GGH..C
+.IHJJC
+.IMMLL
+
+Gerakan 7: F-down
+AAA...
+DEEBF.
+DPPBFCK
+GGH.FC
+.IHJJC
+.IMMLL
+
+Gerakan 8: A-right
+.AAA..
+DEEBF.
+DPPBFCK
+GGH.FC
+.IHJJC
+.IMMLL
+
+Gerakan 9: D-up
+DAAA..
+DEEBF.
+.PPBFCK
+GGH.FC
+.IHJJC
+.IMMLL
+
+Gerakan 10: A-right
+D.AAA.
+DEEBF.
+.PPBFCK
+GGH.FC
+.IHJJC
+.IMMLL
+
+Gerakan 11: P-left
+D.AAA.
+DEEBF.
+PP.BFCK
+GGH.FC
+.IHJJC
+.IMMLL
+
+Gerakan 12: H-up
+D.AAA.
+DEEBF.
+PPHBFCK
+GGH.FC
+.I.JJC
+.IMMLL
+
+Gerakan 13: A-right
+D..AAA
+DEEBF.
+PPHBFCK
+GGH.FC
+.I.JJC
+.IMMLL
+
+Gerakan 14: J-left
+D..AAA
+DEEBF.
+PPHBFCK
+GGH.FC
+.IJJ.C
+.IMMLL
+
+Gerakan 15: B-down
+D..AAA
+DEE.F.
+PPHBFCK
+GGHBFC
+.IJJ.C
+.IMMLL
+
+Gerakan 16: J-right
+D..AAA
+DEE.F.
+PPHBFCK
+GGHBFC
+.I.JJC
+.IMMLL
+
+Gerakan 17: E-right
+D..AAA
+D.EEF.
+PPHBFCK
+GGHBFC
+.I.JJC
+.IMMLL
+
+Gerakan 18: J-left
+D..AAA
+D.EEF.
+PPHBFCK
+GGHBFC
+.IJJ.C
+.IMMLL
+
+Gerakan 19: F-down
+D..AAA
+D.EE..
+PPHBFCK
+GGHBFC
+.IJJFC
+.IMMLL
+
+Gerakan 20: E-right
+D..AAA
+D..EE.
+PPHBFCK
+GGHBFC
+.IJJFC
+.IMMLL
+
+Gerakan 21: E-right
+D..AAA
+D...EE
+PPHBFCK
+GGHBFC
+.IJJFC
+.IMMLL
+
+Gerakan 22: H-up
+D..AAA
+D.H.EE
+PPHBFCK
+GG.BFC
+.IJJFC
+.IMMLL
+
+Gerakan 23: E-left
+D..AAA
+D.HEE.
+PPHBFCK
+GG.BFC
+.IJJFC
+.IMMLL
+
+Gerakan 24: G-right
+D..AAA
+D.HEE.
+PPHBFCK
+.GGBFC
+.IJJFC
+.IMMLL
+
+Gerakan 25: H-up
+D.HAAA
+D.HEE.
+PP.BFCK
+.GGBFC
+.IJJFC
+.IMMLL
+
+Gerakan 26: P-right
+D.HAAA
+D.HEE.
+.PPBFCK
+.GGBFC
+.IJJFC
+.IMMLL
+
+Gerakan 27: E-right
+D.HAAA
+D.H.EE
+.PPBFCK
+.GGBFC
+.IJJFC
+.IMMLL
+
+Gerakan 28: B-up
+D.HAAA
+D.HBEE
+.PPBFCK
+.GG.FC
+.IJJFC
+.IMMLL
+
+Gerakan 29: D-down
+..HAAA
+D.HBEE
+DPPBFCK
+.GG.FC
+.IJJFC
+.IMMLL
+
+Gerakan 30: G-right
+..HAAA
+D.HBEE
+DPPBFCK
+..GGFC
+.IJJFC
+.IMMLL
+
+Gerakan 31: I-up
+..HAAA
+D.HBEE
+DPPBFCK
+.IGGFC
+.IJJFC
+..MMLL
+
+Gerakan 32: M-left
+..HAAA
+D.HBEE
+DPPBFCK
+.IGGFC
+.IJJFC
+.MM.LL
+
+Gerakan 33: D-down
+..HAAA
+..HBEE
+DPPBFCK
+DIGGFC
+.IJJFC
+.MM.LL
+
+Gerakan 34: M-left
+..HAAA
+..HBEE
+DPPBFCK
+DIGGFC
+.IJJFC
+MM..LL
+
+Gerakan 35: D-down
+..HAAA
+..HBEE
+.PPBFCK
+DIGGFC
+DIJJFC
+MM..LL
+
+Gerakan 36: M-right
+..HAAA
+..HBEE
+.PPBFCK
+DIGGFC
+DIJJFC
+.MM.LL
+
+Gerakan 37: D-down
+..HAAA
+..HBEE
+.PPBFCK
+.IGGFC
+DIJJFC
+DMM.LL
+
+Gerakan 38: M-right
+..HAAA
+..HBEE
+.PPBFCK
+.IGGFC
+DIJJFC
+D.MMLL
+
+Gerakan 39: P-left
+..HAAA
+..HBEE
+PP.BFCK
+.IGGFC
+DIJJFC
+D.MMLL
+
+Gerakan 40: M-left
+..HAAA
+..HBEE
+PP.BFCK
+.IGGFC
+DIJJFC
+DMM.LL
+
+Gerakan 41: L-left
+..HAAA
+..HBEE
+PP.BFCK
+.IGGFC
+DIJJFC
+DMMLL.
+
+Gerakan 42: H-down
+...AAA
+..HBEE
+PPHBFCK
+.IGGFC
+DIJJFC
+DMMLL.
+
+Gerakan 43: L-right
+...AAA
+..HBEE
+PPHBFCK
+.IGGFC
+DIJJFC
+DMM.LL
+
+Gerakan 44: M-right
+...AAA
+..HBEE
+PPHBFCK
+.IGGFC
+DIJJFC
+D.MMLL
+
+Gerakan 45: I-down
+...AAA
+..HBEE
+PPHBFCK
+..GGFC
+DIJJFC
+DIMMLL
+
+Gerakan 46: A-left
+..AAA.
+..HBEE
+PPHBFCK
+..GGFC
+DIJJFC
+DIMMLL
+
+Gerakan 47: A-left
+.AAA..
+..HBEE
+PPHBFCK
+..GGFC
+DIJJFC
+DIMMLL
+
+Gerakan 48: A-left
+AAA...
+..HBEE
+PPHBFCK
+..GGFC
+DIJJFC
+DIMMLL
+
+Gerakan 49: I-up
+AAA...
+..HBEE
+PPHBFCK
+.IGGFC
+DIJJFC
+D.MMLL
+
+Gerakan 50: M-left
+AAA...
+..HBEE
+PPHBFCK
+.IGGFC
+DIJJFC
+DMM.LL
+
+Gerakan 51: L-left
+AAA...
+..HBEE
+PPHBFCK
+.IGGFC
+DIJJFC
+DMMLL.
+
+Gerakan 52: C-down
+AAA...
+..HBEE
+PPHBF.K
+.IGGFC
+DIJJFC
+DMMLLC
+
+Gerakan 53: D-up
+AAA...
+..HBEE
+PPHBF.K
+DIGGFC
+DIJJFC
+.MMLLC
+
+Gerakan 54: A-right
+.AAA..
+..HBEE
+PPHBF.K
+DIGGFC
+DIJJFC
+.MMLLC
+
+Gerakan 55: A-right
+..AAA.
+..HBEE
+PPHBF.K
+DIGGFC
+DIJJFC
+.MMLLC
+
+Gerakan 56: A-right
+...AAA
+..HBEE
+PPHBF.K
+DIGGFC
+DIJJFC
+.MMLLC
+
+Gerakan 57: M-left
+...AAA
+..HBEE
+PPHBF.K
+DIGGFC
+DIJJFC
+MM.LLC
+
+Gerakan 58: L-left
+...AAA
+..HBEE
+PPHBF.K
+DIGGFC
+DIJJFC
+MMLL.C
+
+Gerakan 59: F-down
+...AAA
+..HBEE
+PPHB..K
+DIGGFC
+DIJJFC
+MMLLFC
+
+Gerakan 60: H-up
+..HAAA
+..HBEE
+PP.B..K
+DIGGFC
+DIJJFC
+MMLLFC
+
+Gerakan 61: F-up
+..HAAA
+..HBEE
+PP.BF.K
+DIGGFC
+DIJJFC
+MMLL.C
+
+Gerakan 62: L-right
+..HAAA
+..HBEE
+PP.BF.K
+DIGGFC
+DIJJFC
+MM.LLC
+
+Gerakan 63: M-right
+..HAAA
+..HBEE
+PP.BF.K
+DIGGFC
+DIJJFC
+.MMLLC
+
+Gerakan 64: C-up
+..HAAA
+..HBEE
+PP.BFCK
+DIGGFC
+DIJJFC
+.MMLL.
+
+Gerakan 65: M-left
+..HAAA
+..HBEE
+PP.BFCK
+DIGGFC
+DIJJFC
+MM.LL.
+
+Gerakan 66: L-right
+..HAAA
+..HBEE
+PP.BFCK
+DIGGFC
+DIJJFC
+MM..LL
+
+Gerakan 67: H-down
+...AAA
+..HBEE
+PPHBFCK
+DIGGFC
+DIJJFC
+MM..LL
+
+Gerakan 68: M-right
+...AAA
+..HBEE
+PPHBFCK
+DIGGFC
+DIJJFC
+.MM.LL
+
+Gerakan 69: M-right
+...AAA
+..HBEE
+PPHBFCK
+DIGGFC
+DIJJFC
+..MMLL
+
+Gerakan 70: I-down
+...AAA
+..HBEE
+PPHBFCK
+D.GGFC
+DIJJFC
+.IMMLL
+
+Gerakan 71: A-left
+..AAA.
+..HBEE
+PPHBFCK
+D.GGFC
+DIJJFC
+.IMMLL
+
+Gerakan 72: A-left
+.AAA..
+..HBEE
+PPHBFCK
+D.GGFC
+DIJJFC
+.IMMLL
+
+Gerakan 73: A-left
+AAA...
+..HBEE
+PPHBFCK
+D.GGFC
+DIJJFC
+.IMMLL
+
+Gerakan 74: G-left
+AAA...
+..HBEE
+PPHBFCK
+DGG.FC
+DIJJFC
+.IMMLL
+
+Gerakan 75: B-down
+AAA...
+..H.EE
+PPHBFCK
+DGGBFC
+DIJJFC
+.IMMLL
+
+Gerakan 76: A-right
+.AAA..
+..H.EE
+PPHBFCK
+DGGBFC
+DIJJFC
+.IMMLL
+
+Gerakan 77: A-right
+..AAA.
+..H.EE
+PPHBFCK
+DGGBFC
+DIJJFC
+.IMMLL
+
+Gerakan 78: A-right
+...AAA
+..H.EE
+PPHBFCK
+DGGBFC
+DIJJFC
+.IMMLL
+
+Gerakan 79: E-left
+...AAA
+..HEE.
+PPHBFCK
+DGGBFC
+DIJJFC
+.IMMLL
+
+Gerakan 80: H-up
+..HAAA
+..HEE.
+PP.BFCK
+DGGBFC
+DIJJFC
+.IMMLL
+
+Gerakan 81: E-right
+..HAAA
+..H.EE
+PP.BFCK
+DGGBFC
+DIJJFC
+.IMMLL
+
+Gerakan 82: D-down
+..HAAA
+..H.EE
+PP.BFCK
+.GGBFC
+DIJJFC
+DIMMLL
+
+Gerakan 83: G-left
+..HAAA
+..H.EE
+PP.BFCK
+GG.BFC
+DIJJFC
+DIMMLL
+
+Gerakan 84: B-up
+..HAAA
+..HBEE
+PP.BFCK
+GG..FC
+DIJJFC
+DIMMLL
+
+Gerakan 85: H-down
+...AAA
+..HBEE
+PPHBFCK
+GG..FC
+DIJJFC
+DIMMLL
+
+Gerakan 86: H-down
+...AAA
+...BEE
+PPHBFCK
+GGH.FC
+DIJJFC
+DIMMLL
+
+Gerakan 87: B-down
+...AAA
+....EE
+PPHBFCK
+GGHBFC
+DIJJFC
+DIMMLL
+
+Gerakan 88: A-left
+..AAA.
+....EE
+PPHBFCK
+GGHBFC
+DIJJFC
+DIMMLL
+
+Gerakan 89: E-left
+..AAA.
+...EE.
+PPHBFCK
+GGHBFC
+DIJJFC
+DIMMLL
+
+Gerakan 90: E-left
+..AAA.
+..EE..
+PPHBFCK
+GGHBFC
+DIJJFC
+DIMMLL
+
+Gerakan 91: E-left
+..AAA.
+.EE...
+PPHBFCK
+GGHBFC
+DIJJFC
+DIMMLL
+
+Gerakan 92: E-left
+..AAA.
+EE....
+PPHBFCK
+GGHBFC
+DIJJFC
+DIMMLL
+
+Gerakan 93: A-left
+.AAA..
+EE....
+PPHBFCK
+GGHBFC
+DIJJFC
+DIMMLL
+
+Gerakan 94: E-right
+.AAA..
+.EE...
+PPHBFCK
+GGHBFC
+DIJJFC
+DIMMLL
+
+Gerakan 95: F-up
+.AAA..
+.EE.F.
+PPHBFCK
+GGHBFC
+DIJJ.C
+DIMMLL
+
+Gerakan 96: J-right
+.AAA..
+.EE.F.
+PPHBFCK
+GGHBFC
+DI.JJC
+DIMMLL
+
+Gerakan 97: E-right
+.AAA..
+..EEF.
+PPHBFCK
+GGHBFC
+DI.JJC
+DIMMLL
+
+Gerakan 98: A-right
+..AAA.
+..EEF.
+PPHBFCK
+GGHBFC
+DI.JJC
+DIMMLL
+
+Gerakan 99: A-right
+...AAA
+..EEF.
+PPHBFCK
+GGHBFC
+DI.JJC
+DIMMLL
+
+Gerakan 100: J-left
+...AAA
+..EEF.
+PPHBFCK
+GGHBFC
+DIJJ.C
+DIMMLL
+
+Gerakan 101: E-left
+...AAA
+.EE.F.
+PPHBFCK
+GGHBFC
+DIJJ.C
+DIMMLL
+
+Gerakan 102: J-right
+...AAA
+.EE.F.
+PPHBFCK
+GGHBFC
+DI.JJC
+DIMMLL
+
+Gerakan 103: A-left
+..AAA.
+.EE.F.
+PPHBFCK
+GGHBFC
+DI.JJC
+DIMMLL
+
+Gerakan 104: E-left
+..AAA.
+EE..F.
+PPHBFCK
+GGHBFC
+DI.JJC
+DIMMLL
+
+Gerakan 105: A-left
+.AAA..
+EE..F.
+PPHBFCK
+GGHBFC
+DI.JJC
+DIMMLL
+
+Gerakan 106: A-left
+AAA...
+EE..F.
+PPHBFCK
+GGHBFC
+DI.JJC
+DIMMLL
+
+Gerakan 107: E-right
+AAA...
+.EE.F.
+PPHBFCK
+GGHBFC
+DI.JJC
+DIMMLL
+
+Gerakan 108: E-right
+AAA...
+..EEF.
+PPHBFCK
+GGHBFC
+DI.JJC
+DIMMLL
+
+Gerakan 109: J-left
+AAA...
+..EEF.
+PPHBFCK
+GGHBFC
+DIJJ.C
+DIMMLL
+
+Gerakan 110: E-left
+AAA...
+.EE.F.
+PPHBFCK
+GGHBFC
+DIJJ.C
+DIMMLL
+
+Gerakan 111: E-left
+AAA...
+EE..F.
+PPHBFCK
+GGHBFC
+DIJJ.C
+DIMMLL
+
+Gerakan 112: H-up
+AAA...
+EEH.F.
+PPHBFCK
+GG.BFC
+DIJJ.C
+DIMMLL
+
+Gerakan 113: J-right
+AAA...
+EEH.F.
+PPHBFCK
+GG.BFC
+DI.JJC
+DIMMLL
+
+Gerakan 114: G-right
+AAA...
+EEH.F.
+PPHBFCK
+.GGBFC
+DI.JJC
+DIMMLL
+
+Gerakan 115: A-right
+.AAA..
+EEH.F.
+PPHBFCK
+.GGBFC
+DI.JJC
+DIMMLL
+
+Gerakan 116: A-right
+..AAA.
+EEH.F.
+PPHBFCK
+.GGBFC
+DI.JJC
+DIMMLL
+
+Gerakan 117: A-right
+...AAA
+EEH.F.
+PPHBFCK
+.GGBFC
+DI.JJC
+DIMMLL
+
+Gerakan 118: G-left
+...AAA
+EEH.F.
+PPHBFCK
+GG.BFC
+DI.JJC
+DIMMLL
+
+Gerakan 119: A-left
+..AAA.
+EEH.F.
+PPHBFCK
+GG.BFC
+DI.JJC
+DIMMLL
+
+Gerakan 120: A-left
+.AAA..
+EEH.F.
+PPHBFCK
+GG.BFC
+DI.JJC
+DIMMLL
+
+Gerakan 121: J-left
+.AAA..
+EEH.F.
+PPHBFCK
+GG.BFC
+DIJJ.C
+DIMMLL
+
+Gerakan 122: F-up
+.AAAF.
+EEH.F.
+PPHBFCK
+GG.B.C
+DIJJ.C
+DIMMLL
+
+Gerakan 123: J-right
+.AAAF.
+EEH.F.
+PPHBFCK
+GG.B.C
+DI.JJC
+DIMMLL
+
+Gerakan 124: G-right
+.AAAF.
+EEH.F.
+PPHBFCK
+.GGB.C
+DI.JJC
+DIMMLL
+
+Gerakan 125: J-left
+.AAAF.
+EEH.F.
+PPHBFCK
+.GGB.C
+DIJJ.C
+DIMMLL
+
+Gerakan 126: B-up
+.AAAF.
+EEHBF.
+PPHBFCK
+.GG..C
+DIJJ.C
+DIMMLL
+
+Gerakan 127: J-right
+.AAAF.
+EEHBF.
+PPHBFCK
+.GG..C
+DI.JJC
+DIMMLL
+
+Gerakan 128: G-right
+.AAAF.
+EEHBF.
+PPHBFCK
+..GG.C
+DI.JJC
+DIMMLL
+
+Gerakan 129: G-right
+.AAAF.
+EEHBF.
+PPHBFCK
+...GGC
+DI.JJC
+DIMMLL
+
+Gerakan 130: J-left
+.AAAF.
+EEHBF.
+PPHBFCK
+...GGC
+DIJJ.C
+DIMMLL
+
+Gerakan 131: H-down
+.AAAF.
+EE.BF.
+PPHBFCK
+..HGGC
+DIJJ.C
+DIMMLL
+
+Gerakan 132: J-right
+.AAAF.
+EE.BF.
+PPHBFCK
+..HGGC
+DI.JJC
+DIMMLL
+
+Gerakan 133: E-right
+.AAAF.
+.EEBF.
+PPHBFCK
+..HGGC
+DI.JJC
+DIMMLL
+
+Gerakan 134: J-left
+.AAAF.
+.EEBF.
+PPHBFCK
+..HGGC
+DIJJ.C
+DIMMLL
+
+Gerakan 135: I-up
+.AAAF.
+.EEBF.
+PPHBFCK
+.IHGGC
+DIJJ.C
+D.MMLL
+
+Gerakan 136: J-right
+.AAAF.
+.EEBF.
+PPHBFCK
+.IHGGC
+DI.JJC
+D.MMLL
+
+Gerakan 137: M-left
+.AAAF.
+.EEBF.
+PPHBFCK
+.IHGGC
+DI.JJC
+DMM.LL
+
+Gerakan 138: J-left
+.AAAF.
+.EEBF.
+PPHBFCK
+.IHGGC
+DIJJ.C
+DMM.LL
+
+Gerakan 139: E-left
+.AAAF.
+EE.BF.
+PPHBFCK
+.IHGGC
+DIJJ.C
+DMM.LL
+
+Gerakan 140: M-right
+.AAAF.
+EE.BF.
+PPHBFCK
+.IHGGC
+DIJJ.C
+D.MMLL
+
+Gerakan 141: J-right
+.AAAF.
+EE.BF.
+PPHBFCK
+.IHGGC
+DI.JJC
+D.MMLL
+
+Gerakan 142: A-left
+AAA.F.
+EE.BF.
+PPHBFCK
+.IHGGC
+DI.JJC
+D.MMLL
+
+Gerakan 143: E-right
+AAA.F.
+.EEBF.
+PPHBFCK
+.IHGGC
+DI.JJC
+D.MMLL
+
+Gerakan 144: J-left
+AAA.F.
+.EEBF.
+PPHBFCK
+.IHGGC
+DIJJ.C
+D.MMLL
+
+Gerakan 145: E-left
+AAA.F.
+EE.BF.
+PPHBFCK
+.IHGGC
+DIJJ.C
+D.MMLL
+
+Gerakan 146: I-down
+AAA.F.
+EE.BF.
+PPHBFCK
+..HGGC
+DIJJ.C
+DIMMLL
+
+Gerakan 147: J-right
+AAA.F.
+EE.BF.
+PPHBFCK
+..HGGC
+DI.JJC
+DIMMLL
+
+Gerakan 148: H-down
+AAA.F.
+EE.BF.
+PP.BFCK
+..HGGC
+DIHJJC
+DIMMLL
+
+Gerakan 149: P-right
+AAA.F.
+EE.BF.
+.PPBFCK
+..HGGC
+DIHJJC
+DIMMLL
+
+Gerakan 150: C-up
+AAA.F.
+EE.BFC
+.PPBFCK
+..HGGC
+DIHJJ.
+DIMMLL
+
+Gerakan 151: J-right
+AAA.F.
+EE.BFC
+.PPBFCK
+..HGGC
+DIH.JJ
+DIMMLL
+
+Gerakan 152: D-up
+AAA.F.
+EE.BFC
+.PPBFCK
+D.HGGC
+DIH.JJ
+.IMMLL
+
+Gerakan 153: D-up
+AAA.F.
+EE.BFC
+DPPBFCK
+D.HGGC
+.IH.JJ
+.IMMLL
+
+Gerakan 154: C-up
+AAA.FC
+EE.BFC
+DPPBFCK
+D.HGG.
+.IH.JJ
+.IMMLL
+
+Gerakan 155: I-up
+AAA.FC
+EE.BFC
+DPPBFCK
+DIHGG.
+.IH.JJ
+..MMLL
+
+Gerakan 156: G-right
+AAA.FC
+EE.BFC
+DPPBFCK
+DIH.GG
+.IH.JJ
+..MMLL
+
+Gerakan 157: B-down
+AAA.FC
+EE..FC
+DPPBFCK
+DIHBGG
+.IH.JJ
+..MMLL
+
+Gerakan 158: B-down
+AAA.FC
+EE..FC
+DPP.FCK
+DIHBGG
+.IHBJJ
+..MMLL
+
+Gerakan 159: P-right
+AAA.FC
+EE..FC
+D.PPFCK
+DIHBGG
+.IHBJJ
+..MMLL
+
+Gerakan 160: I-up
+AAA.FC
+EE..FC
+DIPPFCK
+DIHBGG
+..HBJJ
+..MMLL
+
+Gerakan 161: M-left
+AAA.FC
+EE..FC
+DIPPFCK
+DIHBGG
+..HBJJ
+.MM.LL
+
+Gerakan 162: B-down
+AAA.FC
+EE..FC
+DIPPFCK
+DIH.GG
+..HBJJ
+.MMBLL
+
+Gerakan 163: G-left
+AAA.FC
+EE..FC
+DIPPFCK
+DIHGG.
+..HBJJ
+.MMBLL
+
+Gerakan 164: C-down
+AAA.F.
+EE..FC
+DIPPFCK
+DIHGGC
+..HBJJ
+.MMBLL
+
+Gerakan 165: M-left
+AAA.F.
+EE..FC
+DIPPFCK
+DIHGGC
+..HBJJ
+MM.BLL
+
+Gerakan 166: D-down
+AAA.F.
+EE..FC
+.IPPFCK
+DIHGGC
+D.HBJJ
+MM.BLL
+
+Gerakan 167: H-down
+AAA.F.
+EE..FC
+.IPPFCK
+DI.GGC
+D.HBJJ
+MMHBLL
+
+Gerakan 168: G-left
+AAA.F.
+EE..FC
+.IPPFCK
+DIGG.C
+D.HBJJ
+MMHBLL
+
+Gerakan 169: D-up
+AAA.F.
+EE..FC
+DIPPFCK
+DIGG.C
+..HBJJ
+MMHBLL
+
+Gerakan 170: E-right
+AAA.F.
+.EE.FC
+DIPPFCK
+DIGG.C
+..HBJJ
+MMHBLL
+
+Gerakan 171: C-up
+AAA.FC
+.EE.FC
+DIPPFCK
+DIGG..
+..HBJJ
+MMHBLL
+
+Gerakan 172: E-right
+AAA.FC
+..EEFC
+DIPPFCK
+DIGG..
+..HBJJ
+MMHBLL
+
+Gerakan 173: I-down
+AAA.FC
+..EEFC
+D.PPFCK
+DIGG..
+.IHBJJ
+MMHBLL
+
+Gerakan 174: A-right
+.AAAFC
+..EEFC
+D.PPFCK
+DIGG..
+.IHBJJ
+MMHBLL
+
+Gerakan 175: D-down
+.AAAFC
+..EEFC
+..PPFCK
+DIGG..
+DIHBJJ
+MMHBLL
+
+Gerakan 176: C-down
+.AAAF.
+..EEFC
+..PPFCK
+DIGG.C
+DIHBJJ
+MMHBLL
+
+Gerakan 177: A-left
+AAA.F.
+..EEFC
+..PPFCK
+DIGG.C
+DIHBJJ
+MMHBLL
+
+Gerakan 178: D-up
+AAA.F.
+..EEFC
+D.PPFCK
+DIGG.C
+.IHBJJ
+MMHBLL
+
+Gerakan 179: I-up
+AAA.F.
+..EEFC
+DIPPFCK
+DIGG.C
+..HBJJ
+MMHBLL
+
+Gerakan 180: D-up
+AAA.F.
+D.EEFC
+DIPPFCK
+.IGG.C
+..HBJJ
+MMHBLL
+
+Gerakan 181: A-right
+.AAAF.
+D.EEFC
+DIPPFCK
+.IGG.C
+..HBJJ
+MMHBLL
+
+Gerakan 182: I-up
+.AAAF.
+DIEEFC
+DIPPFCK
+..GG.C
+..HBJJ
+MMHBLL
+
+Gerakan 183: G-left
+.AAAF.
+DIEEFC
+DIPPFCK
+.GG..C
+..HBJJ
+MMHBLL
+
+Gerakan 184: A-left
+AAA.F.
+DIEEFC
+DIPPFCK
+.GG..C
+..HBJJ
+MMHBLL
+
+Gerakan 185: F-down
+AAA...
+DIEEFC
+DIPPFCK
+.GG.FC
+..HBJJ
+MMHBLL
+
+Gerakan 186: G-right
+AAA...
+DIEEFC
+DIPPFCK
+..GGFC
+..HBJJ
+MMHBLL
+
+Gerakan 187: C-up
+AAA..C
+DIEEFC
+DIPPFCK
+..GGF.
+..HBJJ
+MMHBLL
+
+Gerakan 188: A-right
+.AAA.C
+DIEEFC
+DIPPFCK
+..GGF.
+..HBJJ
+MMHBLL
+
+Gerakan 189: G-left
+.AAA.C
+DIEEFC
+DIPPFCK
+.GG.F.
+..HBJJ
+MMHBLL
+
+Gerakan 190: D-up
+DAAA.C
+DIEEFC
+.IPPFCK
+.GG.F.
+..HBJJ
+MMHBLL
+
+Gerakan 191: G-right
+DAAA.C
+DIEEFC
+.IPPFCK
+..GGF.
+..HBJJ
+MMHBLL
+
+Gerakan 192: I-down
+DAAA.C
+D.EEFC
+.IPPFCK
+.IGGF.
+..HBJJ
+MMHBLL
+
+Gerakan 193: C-down
+DAAA..
+D.EEFC
+.IPPFCK
+.IGGFC
+..HBJJ
+MMHBLL
+
+Gerakan 194: E-left
+DAAA..
+DEE.FC
+.IPPFCK
+.IGGFC
+..HBJJ
+MMHBLL
+
+Gerakan 195: C-up
+DAAA.C
+DEE.FC
+.IPPFCK
+.IGGF.
+..HBJJ
+MMHBLL
+
+Gerakan 196: A-right
+D.AAAC
+DEE.FC
+.IPPFCK
+.IGGF.
+..HBJJ
+MMHBLL
+
+Gerakan 197: I-down
+D.AAAC
+DEE.FC
+..PPFCK
+.IGGF.
+.IHBJJ
+MMHBLL
+
+Gerakan 198: E-right
+D.AAAC
+D.EEFC
+..PPFCK
+.IGGF.
+.IHBJJ
+MMHBLL
+
+Gerakan 199: I-up
+D.AAAC
+D.EEFC
+.IPPFCK
+.IGGF.
+..HBJJ
+MMHBLL
+
+Gerakan 200: I-up
+D.AAAC
+DIEEFC
+.IPPFCK
+..GGF.
+..HBJJ
+MMHBLL
+
+Gerakan 201: D-down
+..AAAC
+DIEEFC
+DIPPFCK
+..GGF.
+..HBJJ
+MMHBLL
+
+Gerakan 202: G-left
+..AAAC
+DIEEFC
+DIPPFCK
+.GG.F.
+..HBJJ
+MMHBLL
+
+Gerakan 203: C-down
+..AAA.
+DIEEFC
+DIPPFCK
+.GG.FC
+..HBJJ
+MMHBLL
+
+Gerakan 204: A-left
+.AAA..
+DIEEFC
+DIPPFCK
+.GG.FC
+..HBJJ
+MMHBLL
+
+Gerakan 205: D-up
+DAAA..
+DIEEFC
+.IPPFCK
+.GG.FC
+..HBJJ
+MMHBLL
+
+Gerakan 206: G-left
+DAAA..
+DIEEFC
+.IPPFCK
+GG..FC
+..HBJJ
+MMHBLL
+
+Gerakan 207: H-up
+DAAA..
+DIEEFC
+.IPPFCK
+GGH.FC
+..HBJJ
+MM.BLL
+
+Gerakan 208: A-right
+D.AAA.
+DIEEFC
+.IPPFCK
+GGH.FC
+..HBJJ
+MM.BLL
+
+Gerakan 209: M-right
+D.AAA.
+DIEEFC
+.IPPFCK
+GGH.FC
+..HBJJ
+.MMBLL
+
+Gerakan 210: B-up
+D.AAA.
+DIEEFC
+.IPPFCK
+GGHBFC
+..HBJJ
+.MM.LL
+
+Gerakan 211: M-right
+D.AAA.
+DIEEFC
+.IPPFCK
+GGHBFC
+..HBJJ
+..MMLL
+
+Gerakan 212: D-down
+..AAA.
+DIEEFC
+DIPPFCK
+GGHBFC
+..HBJJ
+..MMLL
+
+Gerakan 213: A-right
+...AAA
+DIEEFC
+DIPPFCK
+GGHBFC
+..HBJJ
+..MMLL
+
+Gerakan 214: D-up
+D..AAA
+DIEEFC
+.IPPFCK
+GGHBFC
+..HBJJ
+..MMLL
+
+Gerakan 215: I-up
+DI.AAA
+DIEEFC
+..PPFCK
+GGHBFC
+..HBJJ
+..MMLL
+
+Gerakan 216: A-left
+DIAAA.
+DIEEFC
+..PPFCK
+GGHBFC
+..HBJJ
+..MMLL
+
+Gerakan 217: M-left
+DIAAA.
+DIEEFC
+..PPFCK
+GGHBFC
+..HBJJ
+.MM.LL
+
+Gerakan 218: M-left
+DIAAA.
+DIEEFC
+..PPFCK
+GGHBFC
+..HBJJ
+MM..LL
+
+Gerakan 219: H-down
+DIAAA.
+DIEEFC
+..PPFCK
+GG.BFC
+..HBJJ
+MMH.LL
+
+Gerakan 220: G-right
+DIAAA.
+DIEEFC
+..PPFCK
+.GGBFC
+..HBJJ
+MMH.LL
+
+Gerakan 221: P-left
+DIAAA.
+DIEEFC
+.PP.FCK
+.GGBFC
+..HBJJ
+MMH.LL
+
+Gerakan 222: A-right
+DI.AAA
+DIEEFC
+.PP.FCK
+.GGBFC
+..HBJJ
+MMH.LL
+
+Gerakan 223: L-left
+DI.AAA
+DIEEFC
+.PP.FCK
+.GGBFC
+..HBJJ
+MMHLL.
+
+Gerakan 224: G-left
+DI.AAA
+DIEEFC
+.PP.FCK
+GG.BFC
+..HBJJ
+MMHLL.
+
+Gerakan 225: L-right
+DI.AAA
+DIEEFC
+.PP.FCK
+GG.BFC
+..HBJJ
+MMH.LL
+
+Gerakan 226: A-left
+DIAAA.
+DIEEFC
+.PP.FCK
+GG.BFC
+..HBJJ
+MMH.LL
+
+Gerakan 227: L-left
+DIAAA.
+DIEEFC
+.PP.FCK
+GG.BFC
+..HBJJ
+MMHLL.
+
+Gerakan 228: G-right
+DIAAA.
+DIEEFC
+.PP.FCK
+.GGBFC
+..HBJJ
+MMHLL.
+
+Gerakan 229: D-down
+.IAAA.
+DIEEFC
+DPP.FCK
+.GGBFC
+..HBJJ
+MMHLL.
+
+Gerakan 230: L-right
+.IAAA.
+DIEEFC
+DPP.FCK
+.GGBFC
+..HBJJ
+MMH.LL
+
+Gerakan 231: A-right
+.I.AAA
+DIEEFC
+DPP.FCK
+.GGBFC
+..HBJJ
+MMH.LL
+
+Gerakan 232: L-left
+.I.AAA
+DIEEFC
+DPP.FCK
+.GGBFC
+..HBJJ
+MMHLL.
+
+Gerakan 233: G-left
+.I.AAA
+DIEEFC
+DPP.FCK
+GG.BFC
+..HBJJ
+MMHLL.
+
+Gerakan 234: L-right
+.I.AAA
+DIEEFC
+DPP.FCK
+GG.BFC
+..HBJJ
+MMH.LL
+
+Gerakan 235: A-left
+.IAAA.
+DIEEFC
+DPP.FCK
+GG.BFC
+..HBJJ
+MMH.LL
+
+Gerakan 236: L-left
+.IAAA.
+DIEEFC
+DPP.FCK
+GG.BFC
+..HBJJ
+MMHLL.
+
+Gerakan 237: H-up
+.IAAA.
+DIEEFC
+DPP.FCK
+GGHBFC
+..HBJJ
+MM.LL.
+
+Gerakan 238: L-right
+.IAAA.
+DIEEFC
+DPP.FCK
+GGHBFC
+..HBJJ
+MM..LL
+
+Gerakan 239: M-right
+.IAAA.
+DIEEFC
+DPP.FCK
+GGHBFC
+..HBJJ
+.MM.LL
+
+Gerakan 240: M-right
+.IAAA.
+DIEEFC
+DPP.FCK
+GGHBFC
+..HBJJ
+..MMLL
+
+Gerakan 241: A-right
+.I.AAA
+DIEEFC
+DPP.FCK
+GGHBFC
+..HBJJ
+..MMLL
+
+Gerakan 242: M-left
+.I.AAA
+DIEEFC
+DPP.FCK
+GGHBFC
+..HBJJ
+.MM.LL
+
+Gerakan 243: L-left
+.I.AAA
+DIEEFC
+DPP.FCK
+GGHBFC
+..HBJJ
+.MMLL.
+
+Gerakan 244: M-left
+.I.AAA
+DIEEFC
+DPP.FCK
+GGHBFC
+..HBJJ
+MM.LL.
+
+Gerakan 245: L-right
+.I.AAA
+DIEEFC
+DPP.FCK
+GGHBFC
+..HBJJ
+MM..LL
+
+Gerakan 246: B-down
+.I.AAA
+DIEEFC
+DPP.FCK
+GGH.FC
+..HBJJ
+MM.BLL
+
+Gerakan 247: M-right
+.I.AAA
+DIEEFC
+DPP.FCK
+GGH.FC
+..HBJJ
+.MMBLL
+
+Gerakan 248: A-left
+.IAAA.
+DIEEFC
+DPP.FCK
+GGH.FC
+..HBJJ
+.MMBLL
+
+Gerakan 249: M-left
+.IAAA.
+DIEEFC
+DPP.FCK
+GGH.FC
+..HBJJ
+MM.BLL
+
+Gerakan 250: D-up
+DIAAA.
+DIEEFC
+.PP.FCK
+GGH.FC
+..HBJJ
+MM.BLL
+
+Gerakan 251: M-right
+DIAAA.
+DIEEFC
+.PP.FCK
+GGH.FC
+..HBJJ
+.MMBLL
+
+Gerakan 252: A-right
+DI.AAA
+DIEEFC
+.PP.FCK
+GGH.FC
+..HBJJ
+.MMBLL
+
+Gerakan 253: M-left
+DI.AAA
+DIEEFC
+.PP.FCK
+GGH.FC
+..HBJJ
+MM.BLL
+
+Gerakan 254: H-down
+DI.AAA
+DIEEFC
+.PP.FCK
+GG..FC
+..HBJJ
+MMHBLL
+
+Gerakan 255: G-right
+DI.AAA
+DIEEFC
+.PP.FCK
+.GG.FC
+..HBJJ
+MMHBLL
+
+Gerakan 256: G-right
+DI.AAA
+DIEEFC
+.PP.FCK
+..GGFC
+..HBJJ
+MMHBLL
+
+Gerakan 257: A-left
+DIAAA.
+DIEEFC
+.PP.FCK
+..GGFC
+..HBJJ
+MMHBLL
+
+Gerakan 258: G-left
+DIAAA.
+DIEEFC
+.PP.FCK
+.GG.FC
+..HBJJ
+MMHBLL
+
+Gerakan 259: G-left
+DIAAA.
+DIEEFC
+.PP.FCK
+GG..FC
+..HBJJ
+MMHBLL
+
+Gerakan 260: C-up
+DIAAAC
+DIEEFC
+.PP.FCK
+GG..F.
+..HBJJ
+MMHBLL
+
+Gerakan 261: G-right
+DIAAAC
+DIEEFC
+.PP.FCK
+.GG.F.
+..HBJJ
+MMHBLL
+
+Gerakan 262: B-up
+DIAAAC
+DIEEFC
+.PP.FCK
+.GGBF.
+..HBJJ
+MMH.LL
+
+Gerakan 263: L-left
+DIAAAC
+DIEEFC
+.PP.FCK
+.GGBF.
+..HBJJ
+MMHLL.
+
+Gerakan 264: G-left
+DIAAAC
+DIEEFC
+.PP.FCK
+GG.BF.
+..HBJJ
+MMHLL.
+
+Gerakan 265: L-right
+DIAAAC
+DIEEFC
+.PP.FCK
+GG.BF.
+..HBJJ
+MMH.LL
+
+Gerakan 266: D-down
+.IAAAC
+DIEEFC
+DPP.FCK
+GG.BF.
+..HBJJ
+MMH.LL
+
+Gerakan 267: G-right
+.IAAAC
+DIEEFC
+DPP.FCK
+.GGBF.
+..HBJJ
+MMH.LL
+
+Gerakan 268: L-left
+.IAAAC
+DIEEFC
+DPP.FCK
+.GGBF.
+..HBJJ
+MMHLL.
+
+Gerakan 269: G-left
+.IAAAC
+DIEEFC
+DPP.FCK
+GG.BF.
+..HBJJ
+MMHLL.
+
+Gerakan 270: H-up
+.IAAAC
+DIEEFC
+DPP.FCK
+GGHBF.
+..HBJJ
+MM.LL.
+
+Gerakan 271: L-right
+.IAAAC
+DIEEFC
+DPP.FCK
+GGHBF.
+..HBJJ
+MM..LL
+
+Gerakan 272: M-right
+.IAAAC
+DIEEFC
+DPP.FCK
+GGHBF.
+..HBJJ
+.MM.LL
+
+Gerakan 273: M-right
+.IAAAC
+DIEEFC
+DPP.FCK
+GGHBF.
+..HBJJ
+..MMLL
+
+Gerakan 274: D-up
+DIAAAC
+DIEEFC
+.PP.FCK
+GGHBF.
+..HBJJ
+..MMLL
+
+Gerakan 275: M-left
+DIAAAC
+DIEEFC
+.PP.FCK
+GGHBF.
+..HBJJ
+.MM.LL
+
+Gerakan 276: L-left
+DIAAAC
+DIEEFC
+.PP.FCK
+GGHBF.
+..HBJJ
+.MMLL.
+
+Gerakan 277: M-left
+DIAAAC
+DIEEFC
+.PP.FCK
+GGHBF.
+..HBJJ
+MM.LL.
+
+Gerakan 278: L-right
+DIAAAC
+DIEEFC
+.PP.FCK
+GGHBF.
+..HBJJ
+MM..LL
+
+Gerakan 279: C-down
+DIAAA.
+DIEEFC
+.PP.FCK
+GGHBFC
+..HBJJ
+MM..LL
+
+Gerakan 280: M-right
+DIAAA.
+DIEEFC
+.PP.FCK
+GGHBFC
+..HBJJ
+.MM.LL
+
+Gerakan 281: M-right
+DIAAA.
+DIEEFC
+.PP.FCK
+GGHBFC
+..HBJJ
+..MMLL
+
+Gerakan 282: A-right
+DI.AAA
+DIEEFC
+.PP.FCK
+GGHBFC
+..HBJJ
+..MMLL
+
+Gerakan 283: M-left
+DI.AAA
+DIEEFC
+.PP.FCK
+GGHBFC
+..HBJJ
+.MM.LL
+
+Gerakan 284: L-left
+DI.AAA
+DIEEFC
+.PP.FCK
+GGHBFC
+..HBJJ
+.MMLL.
+
+Gerakan 285: M-left
+DI.AAA
+DIEEFC
+.PP.FCK
+GGHBFC
+..HBJJ
+MM.LL.
+
+Gerakan 286: L-right
+DI.AAA
+DIEEFC
+.PP.FCK
+GGHBFC
+..HBJJ
+MM..LL
+
+Gerakan 287: B-up
+DI.AAA
+DIEEFC
+.PPBFCK
+GGHBFC
+..H.JJ
+MM..LL
+
+Gerakan 288: M-right
+DI.AAA
+DIEEFC
+.PPBFCK
+GGHBFC
+..H.JJ
+.MM.LL
+
+Gerakan 289: M-right
+DI.AAA
+DIEEFC
+.PPBFCK
+GGHBFC
+..H.JJ
+..MMLL
+
+Gerakan 290: J-left
+DI.AAA
+DIEEFC
+.PPBFCK
+GGHBFC
+..HJJ.
+..MMLL
+
+Gerakan 291: M-left
+DI.AAA
+DIEEFC
+.PPBFCK
+GGHBFC
+..HJJ.
+.MM.LL
+
+Gerakan 292: M-left
+DI.AAA
+DIEEFC
+.PPBFCK
+GGHBFC
+..HJJ.
+MM..LL
+
+Gerakan 293: L-left
+DI.AAA
+DIEEFC
+.PPBFCK
+GGHBFC
+..HJJ.
+MM.LL.
+
+Gerakan 294: L-left
+DI.AAA
+DIEEFC
+.PPBFCK
+GGHBFC
+..HJJ.
+MMLL..
+
+Gerakan 295: J-right
+DI.AAA
+DIEEFC
+.PPBFCK
+GGHBFC
+..H.JJ
+MMLL..
+
+Gerakan 296: D-down
+.I.AAA
+DIEEFC
+DPPBFCK
+GGHBFC
+..H.JJ
+MMLL..
+
+Gerakan 297: L-right
+.I.AAA
+DIEEFC
+DPPBFCK
+GGHBFC
+..H.JJ
+MM.LL.
+
+Gerakan 298: L-right
+.I.AAA
+DIEEFC
+DPPBFCK
+GGHBFC
+..H.JJ
+MM..LL
+
+Gerakan 299: M-right
+.I.AAA
+DIEEFC
+DPPBFCK
+GGHBFC
+..H.JJ
+.MM.LL
+
+Gerakan 300: M-right
+.I.AAA
+DIEEFC
+DPPBFCK
+GGHBFC
+..H.JJ
+..MMLL
+
+Gerakan 301: A-left
+.IAAA.
+DIEEFC
+DPPBFCK
+GGHBFC
+..H.JJ
+..MMLL
+
+Gerakan 302: J-left
+.IAAA.
+DIEEFC
+DPPBFCK
+GGHBFC
+..HJJ.
+..MMLL
+
+Gerakan 303: C-down
+.IAAA.
+DIEEF.
+DPPBFCK
+GGHBFC
+..HJJC
+..MMLL
+
+Gerakan 304: A-right
+.I.AAA
+DIEEF.
+DPPBFCK
+GGHBFC
+..HJJC
+..MMLL
+
+Gerakan 305: M-left
+.I.AAA
+DIEEF.
+DPPBFCK
+GGHBFC
+..HJJC
+.MM.LL
+
+Gerakan 306: M-left
+.I.AAA
+DIEEF.
+DPPBFCK
+GGHBFC
+..HJJC
+MM..LL
+
+Gerakan 307: A-left
+.IAAA.
+DIEEF.
+DPPBFCK
+GGHBFC
+..HJJC
+MM..LL
+
+Gerakan 308: H-down
+.IAAA.
+DIEEF.
+DPPBFCK
+GG.BFC
+..HJJC
+MMH.LL
+
+Gerakan 309: G-right
+.IAAA.
+DIEEF.
+DPPBFCK
+.GGBFC
+..HJJC
+MMH.LL
+
+Gerakan 310: A-right
+.I.AAA
+DIEEF.
+DPPBFCK
+.GGBFC
+..HJJC
+MMH.LL
+
+Gerakan 311: L-left
+.I.AAA
+DIEEF.
+DPPBFCK
+.GGBFC
+..HJJC
+MMHLL.
+
+Gerakan 312: A-left
+.IAAA.
+DIEEF.
+DPPBFCK
+.GGBFC
+..HJJC
+MMHLL.
+
+Gerakan 313: D-down
+.IAAA.
+.IEEF.
+DPPBFCK
+DGGBFC
+..HJJC
+MMHLL.
+
+Gerakan 314: L-right
+.IAAA.
+.IEEF.
+DPPBFCK
+DGGBFC
+..HJJC
+MMH.LL
+
+Gerakan 315: A-right
+.I.AAA
+.IEEF.
+DPPBFCK
+DGGBFC
+..HJJC
+MMH.LL
+
+Gerakan 316: L-left
+.I.AAA
+.IEEF.
+DPPBFCK
+DGGBFC
+..HJJC
+MMHLL.
+
+Gerakan 317: D-down
+.I.AAA
+.IEEF.
+.PPBFCK
+DGGBFC
+D.HJJC
+MMHLL.
+
+Gerakan 318: L-right
+.I.AAA
+.IEEF.
+.PPBFCK
+DGGBFC
+D.HJJC
+MMH.LL
+
+Gerakan 319: A-left
+.IAAA.
+.IEEF.
+.PPBFCK
+DGGBFC
+D.HJJC
+MMH.LL
+
+Gerakan 320: L-left
+.IAAA.
+.IEEF.
+.PPBFCK
+DGGBFC
+D.HJJC
+MMHLL.
+
+Gerakan 321: C-down
+.IAAA.
+.IEEF.
+.PPBF.K
+DGGBFC
+D.HJJC
+MMHLLC
+
+Gerakan 322: A-right
+.I.AAA
+.IEEF.
+.PPBF.K
+DGGBFC
+D.HJJC
+MMHLLC
+
+Gerakan 323: D-up
+.I.AAA
+.IEEF.
+DPPBF.K
+DGGBFC
+..HJJC
+MMHLLC
+
+Gerakan 324: A-left
+.IAAA.
+.IEEF.
+DPPBF.K
+DGGBFC
+..HJJC
+MMHLLC
+
+Gerakan 325: D-up
+.IAAA.
+DIEEF.
+DPPBF.K
+.GGBFC
+..HJJC
+MMHLLC
+
+Gerakan 326: A-right
+.I.AAA
+DIEEF.
+DPPBF.K
+.GGBFC
+..HJJC
+MMHLLC
+
+Gerakan 327: G-left
+.I.AAA
+DIEEF.
+DPPBF.K
+GG.BFC
+..HJJC
+MMHLLC
+
+Gerakan 328: D-up
+DI.AAA
+DIEEF.
+.PPBF.K
+GG.BFC
+..HJJC
+MMHLLC
+
+Gerakan 329: G-right
+DI.AAA
+DIEEF.
+.PPBF.K
+.GGBFC
+..HJJC
+MMHLLC
+
+Gerakan 330: A-left
+DIAAA.
+DIEEF.
+.PPBF.K
+.GGBFC
+..HJJC
+MMHLLC
+
+Gerakan 331: G-left
+DIAAA.
+DIEEF.
+.PPBF.K
+GG.BFC
+..HJJC
+MMHLLC
+
+Gerakan 332: C-up
+DIAAA.
+DIEEF.
+.PPBFCK
+GG.BFC
+..HJJC
+MMHLL.
+
+Gerakan 333: L-right
+DIAAA.
+DIEEF.
+.PPBFCK
+GG.BFC
+..HJJC
+MMH.LL
+
+Gerakan 334: G-right
+DIAAA.
+DIEEF.
+.PPBFCK
+.GGBFC
+..HJJC
+MMH.LL
+
+Gerakan 335: A-right
+DI.AAA
+DIEEF.
+.PPBFCK
+.GGBFC
+..HJJC
+MMH.LL
+
+Gerakan 336: G-left
+DI.AAA
+DIEEF.
+.PPBFCK
+GG.BFC
+..HJJC
+MMH.LL
+
+Gerakan 337: L-left
+DI.AAA
+DIEEF.
+.PPBFCK
+GG.BFC
+..HJJC
+MMHLL.
+
+Gerakan 338: C-up
+DI.AAA
+DIEEFC
+.PPBFCK
+GG.BFC
+..HJJ.
+MMHLL.
+
+Gerakan 339: L-right
+DI.AAA
+DIEEFC
+.PPBFCK
+GG.BFC
+..HJJ.
+MMH.LL
+
+Gerakan 340: J-right
+DI.AAA
+DIEEFC
+.PPBFCK
+GG.BFC
+..H.JJ
+MMH.LL
+
+Gerakan 341: G-right
+DI.AAA
+DIEEFC
+.PPBFCK
+.GGBFC
+..H.JJ
+MMH.LL
+
+Gerakan 342: J-left
+DI.AAA
+DIEEFC
+.PPBFCK
+.GGBFC
+..HJJ.
+MMH.LL
+
+Gerakan 343: L-left
+DI.AAA
+DIEEFC
+.PPBFCK
+.GGBFC
+..HJJ.
+MMHLL.
+
+Gerakan 344: D-down
+.I.AAA
+DIEEFC
+DPPBFCK
+.GGBFC
+..HJJ.
+MMHLL.
+
+Gerakan 345: L-right
+.I.AAA
+DIEEFC
+DPPBFCK
+.GGBFC
+..HJJ.
+MMH.LL
+
+Gerakan 346: J-right
+.I.AAA
+DIEEFC
+DPPBFCK
+.GGBFC
+..H.JJ
+MMH.LL
+
+Gerakan 347: L-left
+.I.AAA
+DIEEFC
+DPPBFCK
+.GGBFC
+..H.JJ
+MMHLL.
+
+Gerakan 348: A-left
+.IAAA.
+DIEEFC
+DPPBFCK
+.GGBFC
+..H.JJ
+MMHLL.
+
+Gerakan 349: L-right
+.IAAA.
+DIEEFC
+DPPBFCK
+.GGBFC
+..H.JJ
+MMH.LL
+
+Gerakan 350: G-left
+.IAAA.
+DIEEFC
+DPPBFCK
+GG.BFC
+..H.JJ
+MMH.LL
+
+Gerakan 351: J-left
+.IAAA.
+DIEEFC
+DPPBFCK
+GG.BFC
+..HJJ.
+MMH.LL
+
+Gerakan 352: L-left
+.IAAA.
+DIEEFC
+DPPBFCK
+GG.BFC
+..HJJ.
+MMHLL.
+
+Gerakan 353: A-right
+.I.AAA
+DIEEFC
+DPPBFCK
+GG.BFC
+..HJJ.
+MMHLL.
+
+Gerakan 354: H-up
+.I.AAA
+DIEEFC
+DPPBFCK
+GGHBFC
+..HJJ.
+MM.LL.
+
+Gerakan 355: M-right
+.I.AAA
+DIEEFC
+DPPBFCK
+GGHBFC
+..HJJ.
+.MMLL.
+
+Gerakan 356: J-right
+.I.AAA
+DIEEFC
+DPPBFCK
+GGHBFC
+..H.JJ
+.MMLL.
+
+Gerakan 357: A-left
+.IAAA.
+DIEEFC
+DPPBFCK
+GGHBFC
+..H.JJ
+.MMLL.
+
+Gerakan 358: M-left
+.IAAA.
+DIEEFC
+DPPBFCK
+GGHBFC
+..H.JJ
+MM.LL.
+
+Gerakan 359: L-right
+.IAAA.
+DIEEFC
+DPPBFCK
+GGHBFC
+..H.JJ
+MM..LL
+
+Gerakan 360: J-left
+.IAAA.
+DIEEFC
+DPPBFCK
+GGHBFC
+..HJJ.
+MM..LL
+
+Gerakan 361: L-left
+.IAAA.
+DIEEFC
+DPPBFCK
+GGHBFC
+..HJJ.
+MM.LL.
+
+Gerakan 362: L-left
+.IAAA.
+DIEEFC
+DPPBFCK
+GGHBFC
+..HJJ.
+MMLL..
+
+Gerakan 363: A-right
+.I.AAA
+DIEEFC
+DPPBFCK
+GGHBFC
+..HJJ.
+MMLL..
+
+Gerakan 364: C-down
+.I.AAA
+DIEEF.
+DPPBFCK
+GGHBFC
+..HJJC
+MMLL..
+
+Gerakan 365: C-down
+.I.AAA
+DIEEF.
+DPPBF.K
+GGHBFC
+..HJJC
+MMLL.C
+
+Gerakan 366: A-left
+.IAAA.
+DIEEF.
+DPPBF.K
+GGHBFC
+..HJJC
+MMLL.C
+
+Gerakan 367: L-right
+.IAAA.
+DIEEF.
+DPPBF.K
+GGHBFC
+..HJJC
+MM.LLC
+
+Gerakan 368: M-right
+.IAAA.
+DIEEF.
+DPPBF.K
+GGHBFC
+..HJJC
+.MMLLC
+
+Gerakan 369: C-up
+.IAAA.
+DIEEF.
+DPPBFCK
+GGHBFC
+..HJJC
+.MMLL.
+
+Gerakan 370: D-up
+DIAAA.
+DIEEF.
+.PPBFCK
+GGHBFC
+..HJJC
+.MMLL.
+
+Gerakan 371: P-left
+DIAAA.
+DIEEF.
+PP.BFCK
+GGHBFC
+..HJJC
+.MMLL.
+
+Gerakan 372: C-up
+DIAAA.
+DIEEFC
+PP.BFCK
+GGHBFC
+..HJJ.
+.MMLL.
+
+Gerakan 373: L-right
+DIAAA.
+DIEEFC
+PP.BFCK
+GGHBFC
+..HJJ.
+.MM.LL
+
+Gerakan 374: M-right
+DIAAA.
+DIEEFC
+PP.BFCK
+GGHBFC
+..HJJ.
+..MMLL
+
+Gerakan 375: H-up
+DIAAA.
+DIEEFC
+PPHBFCK
+GGHBFC
+...JJ.
+..MMLL
+
+Gerakan 376: J-right
+DIAAA.
+DIEEFC
+PPHBFCK
+GGHBFC
+....JJ
+..MMLL
+
+Gerakan 377: A-right
+DI.AAA
+DIEEFC
+PPHBFCK
+GGHBFC
+....JJ
+..MMLL
+
+Gerakan 378: M-left
+DI.AAA
+DIEEFC
+PPHBFCK
+GGHBFC
+....JJ
+.MM.LL
+
+Gerakan 379: M-left
+DI.AAA
+DIEEFC
+PPHBFCK
+GGHBFC
+....JJ
+MM..LL
+
+Gerakan 380: L-left
+DI.AAA
+DIEEFC
+PPHBFCK
+GGHBFC
+....JJ
+MM.LL.
+
+Gerakan 381: J-left
+DI.AAA
+DIEEFC
+PPHBFCK
+GGHBFC
+...JJ.
+MM.LL.
+
+Gerakan 382: M-right
+DI.AAA
+DIEEFC
+PPHBFCK
+GGHBFC
+...JJ.
+.MMLL.
+
+Gerakan 383: L-right
+DI.AAA
+DIEEFC
+PPHBFCK
+GGHBFC
+...JJ.
+.MM.LL
+
+Gerakan 384: J-left
+DI.AAA
+DIEEFC
+PPHBFCK
+GGHBFC
+..JJ..
+.MM.LL
+
+Gerakan 385: M-right
+DI.AAA
+DIEEFC
+PPHBFCK
+GGHBFC
+..JJ..
+..MMLL
+
+Gerakan 386: A-left
+DIAAA.
+DIEEFC
+PPHBFCK
+GGHBFC
+..JJ..
+..MMLL
+
+Gerakan 387: J-left
+DIAAA.
+DIEEFC
+PPHBFCK
+GGHBFC
+.JJ...
+..MMLL
+
+Gerakan 388: J-left
+DIAAA.
+DIEEFC
+PPHBFCK
+GGHBFC
+JJ....
+..MMLL
+
+Gerakan 389: M-left
+DIAAA.
+DIEEFC
+PPHBFCK
+GGHBFC
+JJ....
+.MM.LL
+
+Gerakan 390: L-left
+DIAAA.
+DIEEFC
+PPHBFCK
+GGHBFC
+JJ....
+.MMLL.
+
+Gerakan 391: A-right
+DI.AAA
+DIEEFC
+PPHBFCK
+GGHBFC
+JJ....
+.MMLL.
+
+Gerakan 392: M-left
+DI.AAA
+DIEEFC
+PPHBFCK
+GGHBFC
+JJ....
+MM.LL.
+
+Gerakan 393: L-right
+DI.AAA
+DIEEFC
+PPHBFCK
+GGHBFC
+JJ....
+MM..LL
+
+Gerakan 394: J-right
+DI.AAA
+DIEEFC
+PPHBFCK
+GGHBFC
+.JJ...
+MM..LL
+
+Gerakan 395: L-left
+DI.AAA
+DIEEFC
+PPHBFCK
+GGHBFC
+.JJ...
+MM.LL.
+
+Gerakan 396: L-left
+DI.AAA
+DIEEFC
+PPHBFCK
+GGHBFC
+.JJ...
+MMLL..
+
+Gerakan 397: J-left
+DI.AAA
+DIEEFC
+PPHBFCK
+GGHBFC
+JJ....
+MMLL..
+
+Gerakan 398: H-down
+DI.AAA
+DIEEFC
+PP.BFCK
+GGHBFC
+JJH...
+MMLL..
+
+Gerakan 399: P-right
+DI.AAA
+DIEEFC
+.PPBFCK
+GGHBFC
+JJH...
+MMLL..
+
+Gerakan 400: B-down
+DI.AAA
+DIEEFC
+.PP.FCK
+GGHBFC
+JJHB..
+MMLL..
+
+Gerakan 401: P-right
+DI.AAA
+DIEEFC
+..PPFCK
+GGHBFC
+JJHB..
+MMLL..
+
+Gerakan 402: F-down
+DI.AAA
+DIEE.C
+..PPFCK
+GGHBFC
+JJHBF.
+MMLL..
+
+Gerakan 403: F-down
+DI.AAA
+DIEE.C
+..PP.CK
+GGHBFC
+JJHBF.
+MMLLF.
+
+Gerakan 404: P-right
+DI.AAA
+DIEE.C
+...PPCK
+GGHBFC
+JJHBF.
+MMLLF.
+
+Gerakan 405: C-down
+DI.AAA
+DIEE..
+...PPCK
+GGHBFC
+JJHBFC
+MMLLF.
+
+Gerakan 406: C-down
+DI.AAA
+DIEE..
+...PP.K
+GGHBFC
+JJHBFC
+MMLLFC
+
+Gerakan 407: P-right
+DI.AAA
+DIEE..
+....PPK
+GGHBFC
+JJHBFC
+MMLLFC
+
+Solved: true
+Cost: 407
+Execution time: 979.26 ms
+  1. Piece J -> left
+  2. Piece C -> down
+  3. Piece C -> down
+  4. Piece F -> up
+  5. Piece P -> left
+  6. Piece B -> down
+  7. Piece F -> down
+  8. Piece A -> right
+  9. Piece D -> up
+  10. Piece A -> right
+  11. Piece P -> left
+  12. Piece H -> up
+  13. Piece A -> right
+  14. Piece J -> left
+  15. Piece B -> down
+  16. Piece J -> right
+  17. Piece E -> right
+  18. Piece J -> left
+  19. Piece F -> down
+  20. Piece E -> right
+  21. Piece E -> right
+  22. Piece H -> up
+  23. Piece E -> left
+  24. Piece G -> right
+  25. Piece H -> up
+  26. Piece P -> right
+  27. Piece E -> right
+  28. Piece B -> up
+  29. Piece D -> down
+  30. Piece G -> right
+  31. Piece I -> up
+  32. Piece M -> left
+  33. Piece D -> down
+  34. Piece M -> left
+  35. Piece D -> down
+  36. Piece M -> right
+  37. Piece D -> down
+  38. Piece M -> right
+  39. Piece P -> left
+  40. Piece M -> left
+  41. Piece L -> left
+  42. Piece H -> down
+  43. Piece L -> right
+  44. Piece M -> right
+  45. Piece I -> down
+  46. Piece A -> left
+  47. Piece A -> left
+  48. Piece A -> left
+  49. Piece I -> up
+  50. Piece M -> left
+  51. Piece L -> left
+  52. Piece C -> down
+  53. Piece D -> up
+  54. Piece A -> right
+  55. Piece A -> right
+  56. Piece A -> right
+  57. Piece M -> left
+  58. Piece L -> left
+  59. Piece F -> down
+  60. Piece H -> up
+  61. Piece F -> up
+  62. Piece L -> right
+  63. Piece M -> right
+  64. Piece C -> up
+  65. Piece M -> left
+  66. Piece L -> right
+  67. Piece H -> down
+  68. Piece M -> right
+  69. Piece M -> right
+  70. Piece I -> down
+  71. Piece A -> left
+  72. Piece A -> left
+  73. Piece A -> left
+  74. Piece G -> left
+  75. Piece B -> down
+  76. Piece A -> right
+  77. Piece A -> right
+  78. Piece A -> right
+  79. Piece E -> left
+  80. Piece H -> up
+  81. Piece E -> right
+  82. Piece D -> down
+  83. Piece G -> left
+  84. Piece B -> up
+  85. Piece H -> down
+  86. Piece H -> down
+  87. Piece B -> down
+  88. Piece A -> left
+  89. Piece E -> left
+  90. Piece E -> left
+  91. Piece E -> left
+  92. Piece E -> left
+  93. Piece A -> left
+  94. Piece E -> right
+  95. Piece F -> up
+  96. Piece J -> right
+  97. Piece E -> right
+  98. Piece A -> right
+  99. Piece A -> right
+  100. Piece J -> left
+  101. Piece E -> left
+  102. Piece J -> right
+  103. Piece A -> left
+  104. Piece E -> left
+  105. Piece A -> left
+  106. Piece A -> left
+  107. Piece E -> right
+  108. Piece E -> right
+  109. Piece J -> left
+  110. Piece E -> left
+  111. Piece E -> left
+  112. Piece H -> up
+  113. Piece J -> right
+  114. Piece G -> right
+  115. Piece A -> right
+  116. Piece A -> right
+  117. Piece A -> right
+  118. Piece G -> left
+  119. Piece A -> left
+  120. Piece A -> left
+  121. Piece J -> left
+  122. Piece F -> up
+  123. Piece J -> right
+  124. Piece G -> right
+  125. Piece J -> left
+  126. Piece B -> up
+  127. Piece J -> right
+  128. Piece G -> right
+  129. Piece G -> right
+  130. Piece J -> left
+  131. Piece H -> down
+  132. Piece J -> right
+  133. Piece E -> right
+  134. Piece J -> left
+  135. Piece I -> up
+  136. Piece J -> right
+  137. Piece M -> left
+  138. Piece J -> left
+  139. Piece E -> left
+  140. Piece M -> right
+  141. Piece J -> right
+  142. Piece A -> left
+  143. Piece E -> right
+  144. Piece J -> left
+  145. Piece E -> left
+  146. Piece I -> down
+  147. Piece J -> right
+  148. Piece H -> down
+  149. Piece P -> right
+  150. Piece C -> up
+  151. Piece J -> right
+  152. Piece D -> up
+  153. Piece D -> up
+  154. Piece C -> up
+  155. Piece I -> up
+  156. Piece G -> right
+  157. Piece B -> down
+  158. Piece B -> down
+  159. Piece P -> right
+  160. Piece I -> up
+  161. Piece M -> left
+  162. Piece B -> down
+  163. Piece G -> left
+  164. Piece C -> down
+  165. Piece M -> left
+  166. Piece D -> down
+  167. Piece H -> down
+  168. Piece G -> left
+  169. Piece D -> up
+  170. Piece E -> right
+  171. Piece C -> up
+  172. Piece E -> right
+  173. Piece I -> down
+  174. Piece A -> right
+  175. Piece D -> down
+  176. Piece C -> down
+  177. Piece A -> left
+  178. Piece D -> up
+  179. Piece I -> up
+  180. Piece D -> up
+  181. Piece A -> right
+  182. Piece I -> up
+  183. Piece G -> left
+  184. Piece A -> left
+  185. Piece F -> down
+  186. Piece G -> right
+  187. Piece C -> up
+  188. Piece A -> right
+  189. Piece G -> left
+  190. Piece D -> up
+  191. Piece G -> right
+  192. Piece I -> down
+  193. Piece C -> down
+  194. Piece E -> left
+  195. Piece C -> up
+  196. Piece A -> right
+  197. Piece I -> down
+  198. Piece E -> right
+  199. Piece I -> up
+  200. Piece I -> up
+  201. Piece D -> down
+  202. Piece G -> left
+  203. Piece C -> down
+  204. Piece A -> left
+  205. Piece D -> up
+  206. Piece G -> left
+  207. Piece H -> up
+  208. Piece A -> right
+  209. Piece M -> right
+  210. Piece B -> up
+  211. Piece M -> right
+  212. Piece D -> down
+  213. Piece A -> right
+  214. Piece D -> up
+  215. Piece I -> up
+  216. Piece A -> left
+  217. Piece M -> left
+  218. Piece M -> left
+  219. Piece H -> down
+  220. Piece G -> right
+  221. Piece P -> left
+  222. Piece A -> right
+  223. Piece L -> left
+  224. Piece G -> left
+  225. Piece L -> right
+  226. Piece A -> left
+  227. Piece L -> left
+  228. Piece G -> right
+  229. Piece D -> down
+  230. Piece L -> right
+  231. Piece A -> right
+  232. Piece L -> left
+  233. Piece G -> left
+  234. Piece L -> right
+  235. Piece A -> left
+  236. Piece L -> left
+  237. Piece H -> up
+  238. Piece L -> right
+  239. Piece M -> right
+  240. Piece M -> right
+  241. Piece A -> right
+  242. Piece M -> left
+  243. Piece L -> left
+  244. Piece M -> left
+  245. Piece L -> right
+  246. Piece B -> down
+  247. Piece M -> right
+  248. Piece A -> left
+  249. Piece M -> left
+  250. Piece D -> up
+  251. Piece M -> right
+  252. Piece A -> right
+  253. Piece M -> left
+  254. Piece H -> down
+  255. Piece G -> right
+  256. Piece G -> right
+  257. Piece A -> left
+  258. Piece G -> left
+  259. Piece G -> left
+  260. Piece C -> up
+  261. Piece G -> right
+  262. Piece B -> up
+  263. Piece L -> left
+  264. Piece G -> left
+  265. Piece L -> right
+  266. Piece D -> down
+  267. Piece G -> right
+  268. Piece L -> left
+  269. Piece G -> left
+  270. Piece H -> up
+  271. Piece L -> right
+  272. Piece M -> right
+  273. Piece M -> right
+  274. Piece D -> up
+  275. Piece M -> left
+  276. Piece L -> left
+  277. Piece M -> left
+  278. Piece L -> right
+  279. Piece C -> down
+  280. Piece M -> right
+  281. Piece M -> right
+  282. Piece A -> right
+  283. Piece M -> left
+  284. Piece L -> left
+  285. Piece M -> left
+  286. Piece L -> right
+  287. Piece B -> up
+  288. Piece M -> right
+  289. Piece M -> right
+  290. Piece J -> left
+  291. Piece M -> left
+  292. Piece M -> left
+  293. Piece L -> left
+  294. Piece L -> left
+  295. Piece J -> right
+  296. Piece D -> down
+  297. Piece L -> right
+  298. Piece L -> right
+  299. Piece M -> right
+  300. Piece M -> right
+  301. Piece A -> left
+  302. Piece J -> left
+  303. Piece C -> down
+  304. Piece A -> right
+  305. Piece M -> left
+  306. Piece M -> left
+  307. Piece A -> left
+  308. Piece H -> down
+  309. Piece G -> right
+  310. Piece A -> right
+  311. Piece L -> left
+  312. Piece A -> left
+  313. Piece D -> down
+  314. Piece L -> right
+  315. Piece A -> right
+  316. Piece L -> left
+  317. Piece D -> down
+  318. Piece L -> right
+  319. Piece A -> left
+  320. Piece L -> left
+  321. Piece C -> down
+  322. Piece A -> right
+  323. Piece D -> up
+  324. Piece A -> left
+  325. Piece D -> up
+  326. Piece A -> right
+  327. Piece G -> left
+  328. Piece D -> up
+  329. Piece G -> right
+  330. Piece A -> left
+  331. Piece G -> left
+  332. Piece C -> up
+  333. Piece L -> right
+  334. Piece G -> right
+  335. Piece A -> right
+  336. Piece G -> left
+  337. Piece L -> left
+  338. Piece C -> up
+  339. Piece L -> right
+  340. Piece J -> right
+  341. Piece G -> right
+  342. Piece J -> left
+  343. Piece L -> left
+  344. Piece D -> down
+  345. Piece L -> right
+  346. Piece J -> right
+  347. Piece L -> left
+  348. Piece A -> left
+  349. Piece L -> right
+  350. Piece G -> left
+  351. Piece J -> left
+  352. Piece L -> left
+  353. Piece A -> right
+  354. Piece H -> up
+  355. Piece M -> right
+  356. Piece J -> right
+  357. Piece A -> left
+  358. Piece M -> left
+  359. Piece L -> right
+  360. Piece J -> left
+  361. Piece L -> left
+  362. Piece L -> left
+  363. Piece A -> right
+  364. Piece C -> down
+  365. Piece C -> down
+  366. Piece A -> left
+  367. Piece L -> right
+  368. Piece M -> right
+  369. Piece C -> up
+  370. Piece D -> up
+  371. Piece P -> left
+  372. Piece C -> up
+  373. Piece L -> right
+  374. Piece M -> right
+  375. Piece H -> up
+  376. Piece J -> right
+  377. Piece A -> right
+  378. Piece M -> left
+  379. Piece M -> left
+  380. Piece L -> left
+  381. Piece J -> left
+  382. Piece M -> right
+  383. Piece L -> right
+  384. Piece J -> left
+  385. Piece M -> right
+  386. Piece A -> left
+  387. Piece J -> left
+  388. Piece J -> left
+  389. Piece M -> left
+  390. Piece L -> left
+  391. Piece A -> right
+  392. Piece M -> left
+  393. Piece L -> right
+  394. Piece J -> right
+  395. Piece L -> left
+  396. Piece L -> left
+  397. Piece J -> left
+  398. Piece H -> down
+  399. Piece P -> right
+  400. Piece B -> down
+  401. Piece P -> right
+  402. Piece F -> down
+  403. Piece F -> down
+  404. Piece P -> right
+  405. Piece C -> down
+  406. Piece C -> down
+  407. Piece P -> right

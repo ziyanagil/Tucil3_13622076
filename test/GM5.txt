@@ -1,0 +1,102 @@
+Papan Awal:
+A.GGGL
+A.PHHL
+BBP.JJ
+.CCI.M
+.DDI.M
+FFFI..
+  K   
+
+Gerakan 1: I-up
+A.GGGL
+A.PHHL
+BBPIJJ
+.CCI.M
+.DDI.M
+FFF...
+  K   
+
+Gerakan 2: F-right
+A.GGGL
+A.PHHL
+BBPIJJ
+.CCI.M
+.DDI.M
+.FFF..
+  K   
+
+Gerakan 3: F-right
+A.GGGL
+A.PHHL
+BBPIJJ
+.CCI.M
+.DDI.M
+..FFF.
+  K   
+
+Gerakan 4: F-right
+A.GGGL
+A.PHHL
+BBPIJJ
+.CCI.M
+.DDI.M
+...FFF
+  K   
+
+Gerakan 5: C-left
+A.GGGL
+A.PHHL
+BBPIJJ
+CC.I.M
+.DDI.M
+...FFF
+  K   
+
+Gerakan 6: P-down
+A.GGGL
+A..HHL
+BBPIJJ
+CCPI.M
+.DDI.M
+...FFF
+  K   
+
+Gerakan 7: D-left
+A.GGGL
+A..HHL
+BBPIJJ
+CCPI.M
+DD.I.M
+...FFF
+  K   
+
+Gerakan 8: P-down
+A.GGGL
+A..HHL
+BB.IJJ
+CCPI.M
+DDPI.M
+...FFF
+  K   
+
+Gerakan 9: P-down
+A.GGGL
+A..HHL
+BB.IJJ
+CC.I.M
+DDPI.M
+..PFFF
+  K   
+
+Solved: true
+Cost: 9
+Execution time: 3.68 ms
+  1. Piece I -> up
+  2. Piece F -> right
+  3. Piece F -> right
+  4. Piece F -> right
+  5. Piece C -> left
+  6. Piece P -> down
+  7. Piece D -> left
+  8. Piece P -> down
+  9. Piece P -> down

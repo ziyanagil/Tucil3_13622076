@@ -1,0 +1,65 @@
+Papan Awal:
+CCCC...
+PPA....K
+..A....
+.BBB...
+
+Gerakan 1: B-right
+CCCC...
+PPA....K
+..A....
+..BBB..
+
+Gerakan 2: B-right
+CCCC...
+PPA....K
+..A....
+...BBB.
+
+Gerakan 3: A-down
+CCCC...
+PP.....K
+..A....
+..ABBB.
+
+Gerakan 4: P-right
+CCCC...
+.PP....K
+..A....
+..ABBB.
+
+Gerakan 5: P-right
+CCCC...
+..PP...K
+..A....
+..ABBB.
+
+Gerakan 6: P-right
+CCCC...
+...PP..K
+..A....
+..ABBB.
+
+Gerakan 7: P-right
+CCCC...
+....PP.K
+..A....
+..ABBB.
+
+Gerakan 8: P-right
+CCCC...
+.....PPK
+..A....
+..ABBB.
+
+Solved: true
+Cost: 8
+Execution time: 2.59 ms
+  1. Piece B -> right
+  2. Piece B -> right
+  3. Piece A -> down
+  4. Piece P -> right
+  5. Piece P -> right
+  6. Piece P -> right
+  7. Piece P -> right
+  8. Piece P -> right
