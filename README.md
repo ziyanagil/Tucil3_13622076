@@ -17,7 +17,7 @@ Rush Hour adalah permainan puzzle di mana kendaraan-kendaraan pada papan berukur
 ## Struktur Direktori
 
 ```
-.
+Tucil3_13622076
 ├── bin/                     # file hasil build atau executable
 ├── doc/                     # laporan tugas kecil
 ├── src/
@@ -165,7 +165,7 @@ LLJMM.
 
   * Waktu eksekusi (ms)
   * Jumlah langkah solusi
-  
+
 * **Penyimpnan Output**:
   * Masukkan nama file output (tanpa .txt):  
 
